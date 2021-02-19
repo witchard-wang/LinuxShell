@@ -10,4 +10,6 @@ Piping <br>
 Background Processes (adding &) <br>
 
 Normal commands are run using execvp while piping, directory changes, background processing, and
-I/O redirection is handled by the program.
+I/O redirection is handled by the program. <br>
+
+Test cases can be found in TESTS.md
