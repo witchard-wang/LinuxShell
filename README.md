@@ -7,7 +7,7 @@ Normal Commands (ls)<br>
 Changing Directories <br>
 I/O redirection with < and > <br>
 Piping <br>
-Background Processes (adding &) <br>
+Background Processes <br>
 
 Normal commands are run using execvp while piping, directory changes, background processing, and
 I/O redirection is handled by the program. <br>
