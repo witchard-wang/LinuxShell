@@ -1,6 +1,7 @@
 # LinuxShell
 
 This project aims to emulate the commands of a linux based shell like bash. 
+<br>
 Compile: ```make```<br>
 Run: ```./shell``` <br>
 
